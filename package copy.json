@@ -1,0 +1,30 @@
+{
+  "name": "ai-disease-symptom-analyzer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "@google/genai": "^1.26.0",
+    "uuid": "^13.0.0",
+    "react-dom": "^19.2.0",
+    "@supabase/supabase-js": "^2.44.4",
+    "react-native-gesture-handler": "^2.29.0",
+    "react-native": "^0.82.1",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "expo": "^54.0.19",
+    "react-native-svg": "^15.14.0",
+    "expo-location": "^19.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

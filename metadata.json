@@ -1,0 +1,7 @@
+{
+  "name": "AI Disease Symptom Analyzer",
+  "description": "An AI-powered application that analyzes user-provided symptoms to predict potential diseases. It logs the analysis with location data for record-keeping. This is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
