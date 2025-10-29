@@ -3,6 +3,6 @@
 // Get your API key from: https://makersuite.google.com/app/apikey
 
 export const ENV = {
-  API_KEY: 'AIzaSyBCy7bRKI_RgrMmjtqdEQ5AN_wvEzeBnmc',
+  API_KEY: goggle_api_key,
 } as const;
 
